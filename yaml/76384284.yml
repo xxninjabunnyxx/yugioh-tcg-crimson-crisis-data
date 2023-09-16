@@ -1,0 +1,26 @@
+---
+id: 76384284
+name: Trojan Gladiator Beast
+type: Trap Card
+frameType: trap
+desc: Special Summon 1 "Gladiator Beast" monster from your hand to your opponent's
+  side of the field. Then, draw 1 card.
+race: Normal
+archetype: Gladiator Beast
+card_sets:
+- set_name: Crimson Crisis
+  set_code: CRMS-EN078
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.16'
+card_images:
+- id: 76384284
+  image_url: https://images.ygoprodeck.com/images/cards/76384284.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/76384284.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/76384284.jpg
+card_prices:
+- cardmarket_price: '0.12'
+  tcgplayer_price: '0.19'
+  ebay_price: '0.99'
+  amazon_price: '0.25'
+  coolstuffinc_price: '0.25'

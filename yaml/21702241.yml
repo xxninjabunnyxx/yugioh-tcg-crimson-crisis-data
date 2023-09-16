@@ -1,0 +1,25 @@
+---
+id: 21702241
+name: Vengeful Servant
+type: Spell Card
+frameType: spell
+desc: When control of the equipped monster changes, inflict damage equal to its original
+  ATK to its new controller.
+race: Equip
+card_sets:
+- set_name: Crimson Crisis
+  set_code: CRMS-EN046
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.29'
+card_images:
+- id: 21702241
+  image_url: https://images.ygoprodeck.com/images/cards/21702241.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/21702241.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/21702241.jpg
+card_prices:
+- cardmarket_price: '0.05'
+  tcgplayer_price: '0.13'
+  ebay_price: '0.99'
+  amazon_price: '0.25'
+  coolstuffinc_price: '0.49'
